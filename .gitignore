@@ -1,1 +1,11 @@
+# Ignore compiled executable
+JSR_test_executable
+
+# Ignore object files
 obj/
+*.o
+
+# Ignore temporary or editor files
+*.swp
+*.tmp
+.DS_Store
