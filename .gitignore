@@ -9,3 +9,4 @@ obj/
 *.swp
 *.tmp
 .DS_Store
+JSR_test_executable
